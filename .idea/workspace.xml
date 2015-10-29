@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f200301-dd25-458b-9fa8-53dc75b8385b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MAE301HW5_StudentVer1-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MAE301HW5_StudentVer1-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MAE301HW5_StudentVer1.ipynb" afterPath="$PROJECT_DIR$/MAE301HW5_StudentVer1.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="F15_MAE301.iws" />
@@ -46,7 +48,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1445919307403" expanded="true" signature="664478:665357" placeholder="..." />
+                <marker date="1445919307403" expanded="true" signature="664478:665893" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -514,12 +519,6 @@
       <option name="number" value="Default" />
       <updated>1439828731268</updated>
     </task>
-    <task id="LOCAL-00007" summary="update hw2.">
-      <created>1440438497377</created>
-      <option name="number" value="00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1440438497378</updated>
-    </task>
     <task id="LOCAL-00008" summary="update hw2.">
       <created>1440713769480</created>
       <option name="number" value="00008" />
@@ -808,7 +807,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446068407352</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="students will do test on their side">
+      <created>1446078334809</created>
+      <option name="number" value="00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1446078334810</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -848,7 +853,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update hw2." />
     <MESSAGE value="upload hw1 solutions" />
     <MESSAGE value="hw3 init" />
     <MESSAGE value="hw2 soln. init" />
@@ -873,7 +877,8 @@
     <MESSAGE value="HW4 solution added" />
     <MESSAGE value="HW5 hidden" />
     <MESSAGE value="made some changes to the student version, please check AIC and BIC under model selection." />
-    <option name="LAST_COMMIT_MESSAGE" value="made some changes to the student version, please check AIC and BIC under model selection." />
+    <MESSAGE value="students will do test on their side" />
+    <option name="LAST_COMMIT_MESSAGE" value="students will do test on their side" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -951,7 +956,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1445919307403" expanded="true" signature="664478:665357" placeholder="..." />
+            <marker date="1445919307403" expanded="true" signature="664478:665893" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1186,7 +1194,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1445919307403" expanded="true" signature="664478:665357" placeholder="..." />
+            <marker date="1445919307403" expanded="true" signature="664478:665893" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
