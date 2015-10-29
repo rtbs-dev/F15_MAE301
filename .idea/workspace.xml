@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f200301-dd25-458b-9fa8-53dc75b8385b" name="Default" comment="HW5 hidden">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MAE301HW5_StudentHidden-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MAE301HW5_StudentHidden-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MAE301HW5_StudentHidden.ipynb" afterPath="$PROJECT_DIR$/MAE301HW5_StudentHidden.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/MAE301HW5_StudentVer1-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MAE301HW5_StudentVer1-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MAE301HW5_StudentVer1.ipynb" afterPath="$PROJECT_DIR$/MAE301HW5_StudentVer1.ipynb" />
+    <list default="true" id="0f200301-dd25-458b-9fa8-53dc75b8385b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="F15_MAE301.iws" />
@@ -95,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/MAE301HW5_StudentHidden.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -518,12 +514,6 @@
       <option name="number" value="Default" />
       <updated>1439828731268</updated>
     </task>
-    <task id="LOCAL-00006" summary="some more changes.">
-      <created>1440098211190</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1440098211190</updated>
-    </task>
     <task id="LOCAL-00007" summary="update hw2.">
       <created>1440438497377</created>
       <option name="number" value="00007" />
@@ -812,7 +802,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445983380668</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="made some changes to the student version, please check AIC and BIC under model selection.">
+      <created>1446068407351</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1446068407352</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -852,7 +848,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="some more changes." />
     <MESSAGE value="update hw2." />
     <MESSAGE value="upload hw1 solutions" />
     <MESSAGE value="hw3 init" />
@@ -877,7 +872,8 @@
     <MESSAGE value="HW5 needs quite a lot of work" />
     <MESSAGE value="HW4 solution added" />
     <MESSAGE value="HW5 hidden" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW5 hidden" />
+    <MESSAGE value="made some changes to the student version, please check AIC and BIC under model selection." />
+    <option name="LAST_COMMIT_MESSAGE" value="made some changes to the student version, please check AIC and BIC under model selection." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
