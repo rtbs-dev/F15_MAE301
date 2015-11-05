@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f200301-dd25-458b-9fa8-53dc75b8385b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ANOVA demo.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MAE301HW5_StudentHidden.ipynb" afterPath="$PROJECT_DIR$/MAE301HW5_StudentHidden.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MAE301HW5_StudentVer1.ipynb" afterPath="$PROJECT_DIR$/MAE301HW5_StudentVer1.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="F15_MAE301.iws" />
@@ -89,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MAE301HW5_StudentHidden.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MAE301HW5_StudentHidden.ipynb">
+      <file leaf-file-name="MAE301HW5_StudentVer1.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MAE301HW5_StudentVer1.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="20" />
+              <selected id="17" />
             </state>
           </provider>
         </entry>
@@ -147,6 +146,7 @@
         <option value="$USER_HOME$/AppData/Local/Temp/Temp1_Homework #2.zip/main.py" />
         <option value="$PROJECT_DIR$/MAE301HW5_Student.ipynb" />
         <option value="$PROJECT_DIR$/MAE301HW5_StudentHidden.ipynb" />
+        <option value="$PROJECT_DIR$/MAE301HW5_StudentVer1.ipynb" />
       </list>
     </option>
   </component>
@@ -393,18 +393,6 @@
       <created>1439828731268</created>
       <option name="number" value="Default" />
       <updated>1439828731268</updated>
-    </task>
-    <task id="LOCAL-00009" summary="upload hw1 solutions">
-      <created>1440779232805</created>
-      <option name="number" value="00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1440779232805</updated>
-    </task>
-    <task id="LOCAL-00010" summary="upload hw1 solutions">
-      <created>1440779398268</created>
-      <option name="number" value="00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1440779398268</updated>
     </task>
     <task id="LOCAL-00011" summary="hw3 init">
       <created>1441663289340</created>
@@ -688,7 +676,19 @@
       <option name="project" value="LOCAL" />
       <updated>1446151818344</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="added anova demo">
+      <created>1446756874875</created>
+      <option name="number" value="00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1446756874876</updated>
+    </task>
+    <task id="LOCAL-00059" summary="fixed some hw5 problem">
+      <created>1446763140431</created>
+      <option name="number" value="00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1446763140431</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -697,6 +697,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -705,7 +706,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -728,8 +728,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="upload hw1 solutions" />
-    <MESSAGE value="hw3 init" />
     <MESSAGE value="hw2 soln. init" />
     <MESSAGE value="added ignore file" />
     <MESSAGE value="updated hw2 answer" />
@@ -753,7 +751,9 @@
     <MESSAGE value="HW5 hidden" />
     <MESSAGE value="made some changes to the student version, please check AIC and BIC under model selection." />
     <MESSAGE value="students will do test on their side" />
-    <option name="LAST_COMMIT_MESSAGE" value="students will do test on their side" />
+    <MESSAGE value="added anova demo" />
+    <MESSAGE value="fixed some hw5 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed some hw5 problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1116,10 +1116,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MAE301HW5_StudentHidden.ipynb">
+    <entry file="file://$PROJECT_DIR$/MAE301HW5_StudentVer1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="2" />
+          <selected id="17" />
         </state>
       </provider>
     </entry>
