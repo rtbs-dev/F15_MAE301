@@ -395,12 +395,6 @@
       <option name="number" value="Default" />
       <updated>1439828731268</updated>
     </task>
-    <task id="LOCAL-00016" summary="added data.txt">
-      <created>1441832737691</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1441832737691</updated>
-    </task>
     <task id="LOCAL-00017" summary="homework 3 need the table">
       <created>1441833121694</created>
       <option name="number" value="00017" />
@@ -689,7 +683,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447738881964</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="added PCA questions and solutions">
+      <created>1447891927785</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1447891927785</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -698,6 +698,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29442343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -706,7 +707,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -729,7 +729,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="homework 3 need the table" />
     <MESSAGE value="homework 3 fixing problem 2 equation" />
     <MESSAGE value="added sample questions for midterm1" />
     <MESSAGE value="added two problems from quora" />
@@ -754,7 +753,8 @@
     <MESSAGE value="added CI and uncertainty examples" />
     <MESSAGE value="fixed bugs in cisamples&#10;" />
     <MESSAGE value="added PCA questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added PCA questions" />
+    <MESSAGE value="added PCA questions and solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added PCA questions and solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
