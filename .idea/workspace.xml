@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f200301-dd25-458b-9fa8-53dc75b8385b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PCAquestions.ipynb" afterPath="$PROJECT_DIR$/PCAquestions.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MAE301HW6_Student.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="F15_MAE301.iws" />
@@ -395,12 +395,6 @@
       <option name="number" value="Default" />
       <updated>1439828731268</updated>
     </task>
-    <task id="LOCAL-00017" summary="homework 3 need the table">
-      <created>1441833121694</created>
-      <option name="number" value="00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1441833121694</updated>
-    </task>
     <task id="LOCAL-00018" summary="homework 3 need the table">
       <created>1441842005017</created>
       <option name="number" value="00018" />
@@ -689,7 +683,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447891927785</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="added PCA questions and solutions">
+      <created>1447892022925</created>
+      <option name="number" value="00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1447892022925</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="ToolWindowManager">
