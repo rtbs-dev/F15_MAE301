@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f200301-dd25-458b-9fa8-53dc75b8385b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MAE301HW6_Student.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="F15_MAE301.iws" />
@@ -395,12 +394,6 @@
       <option name="number" value="Default" />
       <updated>1439828731268</updated>
     </task>
-    <task id="LOCAL-00018" summary="homework 3 need the table">
-      <created>1441842005017</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1441842005017</updated>
-    </task>
     <task id="LOCAL-00019" summary="homework 3 fixing problem 2 equation">
       <created>1441860308770</created>
       <option name="number" value="00019" />
@@ -689,7 +682,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447892022925</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="added hw6">
+      <created>1447907008444</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1447907008444</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -729,7 +728,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="homework 3 fixing problem 2 equation" />
     <MESSAGE value="added sample questions for midterm1" />
     <MESSAGE value="added two problems from quora" />
     <MESSAGE value="testing \begin{equation} on github" />
@@ -754,7 +752,8 @@
     <MESSAGE value="fixed bugs in cisamples&#10;" />
     <MESSAGE value="added PCA questions" />
     <MESSAGE value="added PCA questions and solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added PCA questions and solutions" />
+    <MESSAGE value="added hw6" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
