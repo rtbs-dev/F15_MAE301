@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f200301-dd25-458b-9fa8-53dc75b8385b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Finalexamples.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MAE301HW6_Student.ipynb" afterPath="$PROJECT_DIR$/MAE301HW6_Student.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Finalexamples.ipynb" afterPath="$PROJECT_DIR$/Finalexamples.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="F15_MAE301.iws" />
@@ -396,12 +395,6 @@
       <option name="number" value="Default" />
       <updated>1439828731268</updated>
     </task>
-    <task id="LOCAL-00021" summary="homework 3 fixing problem 2 equation">
-      <created>1441865614658</created>
-      <option name="number" value="00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1441865614658</updated>
-    </task>
     <task id="LOCAL-00022" summary="added sample questions for midterm1">
       <created>1442731612944</created>
       <option name="number" value="00022" />
@@ -690,7 +683,13 @@
       <option name="project" value="LOCAL" />
       <updated>1448476885136</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="final examples added">
+      <created>1448951167494</created>
+      <option name="number" value="00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1448951167494</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -730,7 +729,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="testing \begin{equation} on github" />
     <MESSAGE value="testing html issue with &lt;" />
     <MESSAGE value="a few typos" />
     <MESSAGE value="hw3 solution added" />
@@ -755,7 +753,8 @@
     <MESSAGE value="added hw6" />
     <MESSAGE value="fixed bugs in ci examples" />
     <MESSAGE value="fixing bugs in hw6" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing bugs in hw6" />
+    <MESSAGE value="final examples added" />
+    <option name="LAST_COMMIT_MESSAGE" value="final examples added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
