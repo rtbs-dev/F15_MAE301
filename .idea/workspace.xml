@@ -396,12 +396,6 @@
       <option name="number" value="Default" />
       <updated>1439828731268</updated>
     </task>
-    <task id="LOCAL-00024" summary="testing html issue with &lt;">
-      <created>1442788910508</created>
-      <option name="number" value="00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1442788910508</updated>
-    </task>
     <task id="LOCAL-00025" summary="testing html issue with &lt;">
       <created>1442789218878</created>
       <option name="number" value="00025" />
@@ -690,7 +684,13 @@
       <option name="project" value="LOCAL" />
       <updated>1448951383549</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="fixed another typo in hw6">
+      <created>1448992526674</created>
+      <option name="number" value="00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1448992526674</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -730,7 +730,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="testing html issue with &lt;" />
     <MESSAGE value="a few typos" />
     <MESSAGE value="hw3 solution added" />
     <MESSAGE value="hw4 added" />
@@ -755,7 +754,8 @@
     <MESSAGE value="fixed bugs in ci examples" />
     <MESSAGE value="fixing bugs in hw6" />
     <MESSAGE value="final examples added" />
-    <option name="LAST_COMMIT_MESSAGE" value="final examples added" />
+    <MESSAGE value="fixed another typo in hw6" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed another typo in hw6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
